@@ -1,0 +1,20 @@
+h1 {color:rgb(253, 135, 0)}
+ul.horizontal{
+    margin:0;
+    padding:0;
+    }
+    ul.horizontal li{
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        display:block;
+        float:left;
+        padding: top 20px; 
+        padding-left: 165px;
+        border: 50px;
+        }
+        h1{
+            background-color: darkgray;
+            width: 1300px;
+            height: 70px;}
+
+           
+        
